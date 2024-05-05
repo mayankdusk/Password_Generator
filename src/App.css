@@ -1,0 +1,52 @@
+h1 {
+  margin-left: 38%; 
+  margin-top:  3%;
+}
+
+#box {
+  margin-top: 10vh;
+  width: 100%;
+  height: 8vh;
+  Background-color: yellow;
+  letter-spacing: 2px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.count {
+  display: flex;
+  margin-left: 80px; 
+  margin-top: 30px;
+  justify-content: space-evenly;
+  font-size: 25px;
+  font-weight: bold;
+  color: Grey;
+}
+
+.check{
+  margin-top: 70px; 
+  margin-left: 40%;
+  font-size: 30px;
+  margin-bottom: 30px;
+  font-weight:bold;
+  color: lightcoral
+}
+
+.checkbox{
+  height: 20px;
+  width: 50px;
+}
+
+#buttons {
+  margin: 55px;
+  padding: 15px;
+  background-color: lightblue;
+}
+
+#buttons:hover{
+  background-color: greenyellow;
+}
+
+
+
